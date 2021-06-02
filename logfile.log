@@ -1,0 +1,58 @@
+
+{"level":"error","message":"something failed during startup something failed during startup","stack":"Error: something failed during startup\n    at Object.<anonymous> (C:\\Users\\rohan\\Desktop\\vidly\\index.js:33:7)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":"something failed during startup something failed during startup","stack":"Error: something failed during startup\n    at Object.<anonymous> (C:\\Users\\rohan\\Desktop\\vidly\\index.js:27:7)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":"something went wrong something went wrong","stack":"Error: something went wrong\n    at Object.<anonymous> (C:\\Users\\rohan\\Desktop\\vidly\\index.js:41:26)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":"something went wrong something went wrong","stack":"Error: something went wrong\n    at Object.<anonymous> (C:\\Users\\rohan\\Desktop\\vidly\\index.js:41:26)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":"something went wrong something went wrong","stack":"Error: something went wrong\n    at Object.<anonymous> (C:\\Users\\rohan\\Desktop\\vidly\\index.js:41:26)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Connected to MongoDB","level":"info"}
